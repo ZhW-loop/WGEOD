@@ -7,3 +7,5 @@ main 3
 main main 4
 
 main 5
+
+main reset
