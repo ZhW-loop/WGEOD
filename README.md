@@ -13,5 +13,3 @@ main 5
 main 6
 
 main 7
-
-main 8
