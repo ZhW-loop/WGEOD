@@ -10,3 +10,5 @@ main 4
 main 5
 
 main reset
+
+main 10
